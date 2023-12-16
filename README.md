@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a barter application
+- 🔭 I’m currently working at Axa
 - 🌱 I’m currently learning NestJs / Typescript
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
